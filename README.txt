@@ -1,7 +1,3 @@
-Description:
-
-The objective for this assignment is to extend the Image Editor app. To to change the list of animals from a static list to a data-driven list that can be modified by the user.
-
 Application Requirements:
 
 - When a user starts your app, they should be presented with a list that contains 10 animals. It is okay if the rows in the list do not share the same height. Immediately below the list should be an EditText where users can add fun facts about a selected animal. To the right of the EditText should be a button that says "Add Fact". Below it, and at the bottom of the screen should be transformation buttons. The buttons used to rotate and flip the images should be aligned to the left and the buttons used to translate the images should be aligned to the right. (See Attached Screenshot)
